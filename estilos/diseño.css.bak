@@ -1,0 +1,47 @@
+body{
+	background: #bae0f5;
+	}
+	
+header{
+	background: #ff6961;
+	width: 100%;
+	height: 250;
+	}
+	
+h1{
+	margin: auto;
+	font-size:60px;
+	text-align:center;
+	color: white;
+	}	
+	
+p{
+   font-size:20px;
+   font-family:Arial;
+   font-style:italic;
+   font-weight:lighter;
+   text-align:center;
+	}	
+section{
+	background: #b186f1;
+	width: 100%;
+	height: 200;
+	}
+	
+article{
+	background: #6a9eda;
+	width: 100%;
+	height: 600;
+	}
+h2{
+	font-size:30px;
+	font-family:Time;
+	font-style:italic;
+	font-style:bold;
+	text-align:center;
+	}
+h3{
+	color: white;
+	font-style:italic;
+	font-style:bold;
+}	
